@@ -1,0 +1,20 @@
+.contact {
+  background: var(--secondary-color);
+  height: 100vh;
+  padding-top: 200px;
+}
+
+.contact-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.content {
+  border: 1px solid red;
+}
+
+.d-flex {
+  display: flex;
+  align-items: center;
+}

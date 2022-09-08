@@ -1,0 +1,17 @@
+/* GLOBAL */
+@import 'global.css';
+
+/* NAV-MENU */
+@import 'nav.css';
+
+/* INTRO */
+@import 'intro.css';
+
+/* ABOUT */
+@import 'about.css';
+
+/* RESUME */
+@import 'resume.css';
+
+/* CONTACT */
+@import 'contact.css';
